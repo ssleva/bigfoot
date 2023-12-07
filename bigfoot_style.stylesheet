@@ -1,0 +1,64 @@
+AppMainWindow {
+    background-color: #7BCCB5;
+}
+
+CreateNewProject {
+    background-color: #3D3C38;
+}
+
+LeftPanelHorizontalLine1 {
+    background-color: #000000;
+}
+
+LeftPanelFileDir1 {
+    background-color: #000000;
+}
+
+LoginWidget {
+    background-color: #3D3C38;
+}
+
+QLabel {
+    font-family: Courier New; 
+    font-size: 12px; 
+    font-weight: 900; 
+    color: #FE1493;
+}
+
+QLineEdit {
+    font-family: Courier New;
+    font-size: 14px;
+    font-weight: 600;
+    height: 100px;
+    color: #000000;
+    
+    background-color: #D28140;
+}
+
+QListView {
+    font-size: 12px;
+    font-weight: 900;
+    color: #000000;
+    
+    background-color: #FFDEAD;
+}
+
+QPushButton {
+    background-color: #E5E4E2;
+}
+
+QTreeView::item:open {
+    color: #E9967A;
+    background-color: #c5ebfb;
+}
+
+QTreeView::item:selected {
+    color: #FE1493;
+    background-color: #DCDCDC;
+}
+
+QWidget {
+    font-size: 16px;
+    font-weight: 900;
+    color: #000000;
+}
